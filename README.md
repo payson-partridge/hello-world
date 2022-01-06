@@ -21,3 +21,6 @@
 1. Sign up
 1. Add configuration to have travis run your test for each PR made to this repo
 1. Add a PR that includes the travis config
+
+## Authors
+- Jeff Malnick
